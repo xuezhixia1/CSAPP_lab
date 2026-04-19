@@ -16,6 +16,6 @@ Download course and labs PPT [here](https://www.cs.cmu.edu/afs/cs/academic/class
 - [x] Lab 2 - bomblab
 - [x] Lab 3 - attacklab
 - [x] Lab 4 - cachelab
-- [ ] Lab 5 - shelllab
+- [x] Lab 5 - shelllab
 - [ ] Lab 6 - malloclab
 - [ ] Lab 7 - proxylab
